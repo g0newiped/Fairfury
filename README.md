@@ -1,3 +1,4 @@
+![highres-icon](https://github.com/user-attachments/assets/863b5e7c-e051-4b9d-ba8c-256ce2aae021)
 ﻿
 # FairFury 🌈
 

@@ -92,8 +92,8 @@ If the script doesn't work:
 ## ☕ Support This Project
 
 If FairFury helped you avoid proprietary software and made your RGB dreams come true on Linux, consider buying me a coffee!
-![image](https://github.com/user-attachments/assets/87ac3ced-bdaa-4bb9-924e-4ac6b9074ebb)(https://www.paypal.com/donate/?business=HCVH7CV47XQTU&no_recurring=0&currency_code=BRL)
-
+![image]((https://www.paypal.com/donate/?business=HCVH7CV47XQTU&no_recurring=0&currency_code=BRL)
+[<img src="https://github.com/user-attachments/assets/87ac3ced-bdaa-4bb9-924e-4ac6b9074ebb)" />]([https://www.google.com/](https://www.paypal.com/donate/?business=HCVH7CV47XQTU&no_recurring=0&currency_code=BRL))
 
 Crypto donations:
 

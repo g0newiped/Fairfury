@@ -90,6 +90,17 @@ If the script doesn't work:
 - Verify the I2C addresses match your hardware using `i2cdetect`
 - Make sure you have the correct permissions
 
+## ☕ Support This Project
+
+If FairFury helped you avoid proprietary software and made your RGB dreams come true on Linux, consider buying me a coffee!
+
+Crypto donations:
+
+    BTC: bc1qsd895wxf4yd8cfxh7e6dvz5wsj04kuwe8eh67j
+    TON: UQD3cU_D1uJMKCcWDPWisysc8P4ZKbNWvmlm6hCgiM6BNjsI
+
+Every donation helps keep this project alive and motivates more open-source RGB tools! 🚀
+
 ## License: MIT
 
 ## Disclaimer

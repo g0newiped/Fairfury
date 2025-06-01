@@ -94,6 +94,7 @@ If the script doesn't work:
 If FairFury helped you avoid proprietary software and made your RGB dreams come true on Linux, consider buying me a coffee!
 Crypto donations:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=HCVH7CV47XQTU&no_recurring=0&currency_code=BRL)
+
     BTC: bc1qsd895wxf4yd8cfxh7e6dvz5wsj04kuwe8eh67j
     TON: UQD3cU_D1uJMKCcWDPWisysc8P4ZKbNWvmlm6hCgiM6BNjsI
 

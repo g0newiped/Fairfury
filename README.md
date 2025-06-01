@@ -4,7 +4,6 @@
 A bash script to control RGB lighting on Kingston FURY RAM modules via I2C interface.
 
 ## Features
-
 - GUI color picker using Zenity
 - Brightness control (0-100)
 - Supports dual RAM modules
@@ -93,6 +92,8 @@ If the script doesn't work:
 ## ☕ Support This Project
 
 If FairFury helped you avoid proprietary software and made your RGB dreams come true on Linux, consider buying me a coffee!
+![image](https://github.com/user-attachments/assets/87ac3ced-bdaa-4bb9-924e-4ac6b9074ebb)(https://www.paypal.com/donate/?business=HCVH7CV47XQTU&no_recurring=0&currency_code=BRL)
+
 
 Crypto donations:
 

@@ -1,7 +1,7 @@
 ﻿
 # FairFury 🌈
 
-A bash script to control RGB lighting on Kingston RAM modules via I2C interface.
+A bash script to control RGB lighting on Kingston FURY RAM modules via I2C interface.
 
 ## Features
 
@@ -9,7 +9,7 @@ A bash script to control RGB lighting on Kingston RAM modules via I2C interface.
 - Brightness control (0-100)
 - Supports dual RAM modules
 - Automatic root authentication
-- Tested on DDR4 Kingston RAM
+- Tested on DDR4 Kingston FURY RAM
 - **Currently supports only fixed color mode** (no animations or effects yet)
 
 ## Requirements
